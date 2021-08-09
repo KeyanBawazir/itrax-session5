@@ -1,0 +1,26 @@
+
+.container {
+    width: 100%;
+    height: 500px;
+    background-color: gray;
+    
+}
+.food {
+    width:25%;
+    height: 100%;
+    background-color: blue;
+}
+.food-heading {
+    color: red;
+    text-align: center;
+}
+.item {
+    text-align: center;
+}
+.item-img {
+    width: 150px;
+    height: 150px;
+} 
+.item-desc {
+    color :white;
+}
